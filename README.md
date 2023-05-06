@@ -108,15 +108,15 @@ Credit_card_defaulters/
 - `requirements.txt` contains a list of required packages and their versions.
 
 ## Author
-- Avinash Durugkar
+- Bhavani Shankar
 
 ## Contact to author
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/adurugkar/">
+  <a href="https://www.linkedin.com/in/bhasha03/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="adurugkar42@gmail.com">
+  <a href="bhavanishankar.leadindia@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
