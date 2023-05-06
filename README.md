@@ -1,2 +1,0 @@
-# Creditcarddefaulter
-default prediction
